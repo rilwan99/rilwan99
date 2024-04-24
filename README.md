@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Rilwan</h1>
+<h3 align="center">Final Year Information Systems (IS) Undergraduate at National University of Singapore (NUS)</h3>
 
-<!--
-**rilwan99/rilwan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🔭 I'm passionate about **blockchain development, distributed systems, and full-stack development**.
+- 🌱 Proficient in **Solidity**, with experience using **HardHat** and **Foundry** for smart contract development.
+- 🌱 Skilled in **frontend technologies**, including **Next.js, React, TypeScript**, and **JavaScript**.
+- 🌱 Experienced with **backend frameworks** like **Node.js, Express.js**, and **Nest.js**.
+- 👯 Eager to collaborate on projects involving **decentralized applications (DApps), exploring on-chain data and building innovative products**.
 
-Here are some ideas to get you started:
+### Interests
+- ⚡ In my free time, I enjoy **weightlifting, running, exploring coffee cultures**, and **watching anime**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+- 📫 Reach me at: **rilwanwild@gmail.com**
+
