@@ -1,25 +1,35 @@
 <h1 align="center">Hi there, I'm Rilwan</h1>
-<h3 align="center">Full-Stack & Blockchain Developer | B.comp Information Systems (IS) @ National University of Singapore (NUS)</h3>
+<h3 align="center">Senior Software Engineer | Full-Stack & Blockchain Specialist</h3>
 
 ### About Me
-- 🛠️ I'm a software engineer with hands-on experience in **blockchain development**, **distributed systems**, and **full-stack engineering**.
--  🌐 Currently building internal tools and frameworks as a **Fullstack Engineer at SPH Media**, leveraging **Next.js**, **React**, **AWS Lambda**, and **CloudFront**.
-- 🧠 Conducted technical research on **consensus models**, **restaking protocols**, and **on-chain data** as a Research Engineer Intern at **Nethermind**.
-- 🔐 Experienced with **smart contract auditing**, having helped identify and mitigate critical vulnerabilities.
-- 🧪 Passionate about clean architecture, scalable APIs, and building impactful, production-grade software.
-- 🤝 I thrive in fast-paced environments, take ownership of projects, and enjoy collaborating across diverse teams.
 
-### 💻 Technical Skills
+Results-driven Software Engineer with 2+ years of experience building **scalable full-stack systems** and **blockchain solutions**. Currently architecting internal frameworks and developer tooling at **SPH Media**, with deep expertise in modern web technologies and decentralized systems.
 
-- **Languages:** JavaScript, TypeScript, Python, Solidity  
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express.js, NestJS, Flask  
-- **DevOps:** GitHub Actions, AWS Lambda, CloudFront  
-- **Smart Contract Development:** HardHat, Foundry  
+- 🏗️ **Full-Stack Engineering:** Building production-grade systems with **TypeScript**, **React**, **Next.js**, **NestJS**, and **AWS** (Lambda, CloudFront). Specializing in SSR/ISR architectures, edge caching strategies, and high-performance SDKs.
 
-### Interests
-- ⚡ In my free time, I enjoy **weightlifting, running, exploring coffee cultures**, and **watching anime**.
+- ⛓️ **Blockchain Development:** Expert in **EVM-based smart contracts** (Solidity, Foundry, Hardhat) with hands-on experience in DeFi protocols, consensus mechanisms, and on-chain data analysis. Proficient in **Rust/Solana** development.
 
-### Contact Me
-- 📫 Reach me at: **rilwanwild@gmail.com**
+- 🔬 **Previous Experience:**
+  - Research & Security at **Nethermind** — Conducted technical research on consensus models and restaking protocols, performed smart contract audits, and built on-chain data analytics systems.
+  - DeFi Analytics at **Altonomy** — Analyzed Uniswap v3 JIT liquidity mechanisms and impermanent loss patterns.
+  - Backend Systems at **Ministry of Home Affairs (MHA)** — Built enterprise-grade systems with NestJS and Flask, designed CI/CD pipelines.
 
+- 🎓 **Education:** B.Comp, Information Systems (Honors) @ **National University of Singapore (NUS)**
+
+### 💻 Tech Stack
+
+**Languages:** TypeScript/JavaScript, Solidity, Python, Rust  
+**Frontend:** React, Next.js  
+**Backend:** Node.js, NestJS, Express.js, Flask  
+**Blockchain:** Foundry, Hardhat, Ethers.js, Anchor (Solana)  
+**DevOps & Cloud:** AWS (Lambda, CloudFront, CloudWatch), CI/CD, GitHub Actions  
+
+### Beyond Code
+
+When I'm not building software, you'll find me **weightlifting, running, exploring coffee culture**, or catching up on **anime**.
+
+### Let's Connect
+
+📫 **Email:** rilwanwild@gmail.com  
+💼 **GitHub:** github.com/rilwan99  
+📱 **Phone:** +65 96979746
