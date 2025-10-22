@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Rilwan</h1>
-<h3 align="center">Senior Software Engineer | Full-Stack & Blockchain Specialist</h3>
+<h3 align="center">Senior Software Engineer | Full-Stack & Blockchain Dev</h3>
 
 ### About Me
 
